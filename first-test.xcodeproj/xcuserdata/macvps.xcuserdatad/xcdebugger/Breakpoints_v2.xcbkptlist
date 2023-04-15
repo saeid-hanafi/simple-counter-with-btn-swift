@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8B9E758B-48AE-474F-B1CD-BDA59FA3808B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "251287DF-ED53-42FD-9BB4-A613A91D28B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first-test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "minus()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3512704A-BEDD-4325-B5AA-30DDE1E26B23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first-test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setupView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3512704A-BEDD-4325-B5AA-30DDE1E26B23 - 8fdc15d2f5de167e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_test.ViewController.setupView() -&gt; ()"
+                  moduleName = "first-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macvps/Desktop/projects/first-test/first-test/first-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "3512704A-BEDD-4325-B5AA-30DDE1E26B23 - 8fdc15d2f5de161f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_test.ViewController.setupView() -&gt; ()"
+                  moduleName = "first-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macvps/Desktop/projects/first-test/first-test/first-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B37A25B2-FDF8-4B00-9246-462649C2495A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first-test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "setupView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B37A25B2-FDF8-4B00-9246-462649C2495A - 8fdc15d2f5de167e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_test.ViewController.setupView() -&gt; ()"
+                  moduleName = "first-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macvps/Desktop/projects/first-test/first-test/first-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "B37A25B2-FDF8-4B00-9246-462649C2495A - 8fdc15d2f5de167e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_test.ViewController.setupView() -&gt; ()"
+                  moduleName = "first-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macvps/Desktop/projects/first-test/first-test/first-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "285">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F975F85-44C6-415B-ADF8-57AA317C61FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first-test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "setupView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F975F85-44C6-415B-ADF8-57AA317C61FC - 8fdc15d2f5de1651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_test.ViewController.setupView() -&gt; ()"
+                  moduleName = "first-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macvps/Desktop/projects/first-test/first-test/first-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "246">
+               </Location>
+               <Location
+                  uuid = "1F975F85-44C6-415B-ADF8-57AA317C61FC - 8fdc15d2f5de1651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_test.ViewController.setupView() -&gt; ()"
+                  moduleName = "first-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macvps/Desktop/projects/first-test/first-test/first-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "494">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13644B5D-650C-494A-8CD0-7F9914AB6C67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first-test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "plusBtnAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0B2BF5F-AA5E-4EEC-B7DB-8C3F1CAAAE40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first-test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "minusBtnAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0B2BF5F-AA5E-4EEC-B7DB-8C3F1CAAAE40 - 8ad120e0bc95feb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_test.ViewController.minusBtnAction(Any) -&gt; ()"
+                  moduleName = "first-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macvps/Desktop/projects/first-test/first-test/first-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "E0B2BF5F-AA5E-4EEC-B7DB-8C3F1CAAAE40 - 8ad120e0bc95feb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_test.ViewController.minusBtnAction(Any) -&gt; ()"
+                  moduleName = "first-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macvps/Desktop/projects/first-test/first-test/first-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
